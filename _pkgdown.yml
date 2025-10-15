@@ -32,7 +32,7 @@ reference:
 - title: "Interpolate over missing values"
   desc: These functions ensure that your data is ready for analysis.
   contents:
-  - replace_na_aniframe
+  - replace_na
   - replace_na_linear
   - replace_na_locf
   - replace_na_spline
@@ -53,3 +53,9 @@ reference:
   - filter_rollmean
   - filter_rollmedian
   - filter_sgolay
+
+- title: "Other functions"
+  desc: These functions ensure that your data is ready for analysis.
+  contents:
+  - find_peaks
+  - find_troughs
