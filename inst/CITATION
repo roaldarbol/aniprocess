@@ -2,7 +2,7 @@ citHeader("To cite aniprocess in publications use:")
 
 bibentry(bibtype = "Misc",
          key = "aniprocess",
-         doi = "10.5281/zenodo.17352843",
+         doi = "10.5281/zenodo.17357778",
          title = "aniprocess: An R package for signal processing and filtering of movement data",
          author = person(given = "Mikkel",
                          family = "Roald-Arbøl",
